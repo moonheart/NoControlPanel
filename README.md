@@ -1,5 +1,4 @@
 # NoControlPanel On Xiaomi 12s Ultra
-Do not force me to use control panel on Xiaomi 12s Ultra
 
 The Mi 12s series is forced to use the new version of the Control Center. If you want to use the classic control center, you can modify it as follows.
 
