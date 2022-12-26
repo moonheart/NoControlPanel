@@ -10,4 +10,4 @@
 
 最后通过 magisk 模块覆盖到系统。
 
-https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-14.0.2.zip
+下载 [MIUI13](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI13.zip) [MIUI14](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI14.zip)
