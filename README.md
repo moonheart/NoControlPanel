@@ -10,4 +10,4 @@ Save the apk. If it is MIUI 14/Android 13, you need to sign the apk to be recogn
 
 Finally, it is overwritten to the system through the magisk module.
 
-https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-14.0.2.zip
+Download for [MIUI13](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI13.zip) [MIUI14](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI14.zip)
