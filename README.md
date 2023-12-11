@@ -6,8 +6,8 @@ The Mi 12s series is forced to use the new version of the Control Center. If you
 
 Use MT Manager to find `/system/product/overlay/DevicesOverlay.apk` and copy it to internal storage such as `Documents/DevicesOverlay.apk`, open the `resources.arsc` file through Arsc editor. Find `com.miui.systemui.devices.overlay/integer/integer/force_use_control_panel` and change the value to 0.
 
-Save the apk. If it is MIUI 14/Android 13, you need to sign the apk to be recognized by the system, just use the signature tool that comes with MT Manager.
+Save the apk. If it is MIUI 14/Android 13/HyperOS/Android 14, you need to sign the apk to be recognized by the system, just use the signature tool that comes with MT Manager.
 
 Finally, it is overwritten to the system through the magisk module.
 
-Download for [MIUI13](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI13.zip) [MIUI14](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI14.zip)
+Download for [MIUI13](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI13.zip) [MIUI14](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-MIUI14.zip) [HyperOS](https://github.com/moonheart/NoControlPanel/releases/download/v14.0.2/Xiaomi12sUltraClasicControlCenter-HyperOS.zip)
